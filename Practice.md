@@ -3,9 +3,8 @@
 
 - 使用到的操作系统： Kali, Windows 10, Windows 7
 
-3. [利用 burpsuite 修改请求和响应](https://shimo.im/docs/POgZfmPQjhY5z8ev/)
-4. [分析修改 cookie&session](https://shimo.im/docs/0XL2SXM8V2EziTvR/)
-5. [ 针对 OWASP TOP 10 查找相关的防范方法](https://shimo.im/docs/BsNqGrke4YMyipca/ )
+
+
 6. [基于靶场进行 XSS 攻击](https://shimo.im/docs/TTAv7ynXRjEJxIYy/ )
 7. [XSS 盲打练习](https://shimo.im/docs/X10K66PuTrUL87Vp/)
 8. [CSRF 代码构造](https://shimo.im/docs/2UUKJyYYB1USuP7h/ )
@@ -33,11 +32,11 @@
 
 | Quiz Name | My Solution | Keywords |
 |-----------|-------------|------------------------------|
-|1.使用 Arachni 发现Web漏洞 |[solution](https://shimo.im/docs/R8Cam8Zr4ecBatss/)|`for...yield`, `Tuple`, `groupBy`, `mapValues`|
-|2.phpStudy 在Windows 环境下搭建 wordpress|[solution](https://shimo.im/docs/97FLwf3E5oIzK66O/)|`Regular Expression`, `groupBy`, `maxBy`|
-|[121.Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/121.scala) |`for-loop`, `if-else` |  
-|[551.Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) |[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/551.scala) |`Boolean` |
-|[268.Missing Number](https://leetcode.com/problems/missing-number/description/)|[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/268.scala)|`filter`|
+|1. 使用 Arachni 发现Web漏洞 |[solution](https://shimo.im/docs/R8Cam8Zr4ecBatss/)|`for...yield`, `Tuple`, `groupBy`, `mapValues`|
+|2. phpStudy 在Windows 环境下搭建 wordpress|[solution](https://shimo.im/docs/97FLwf3E5oIzK66O/)|`Regular Expression`, `groupBy`, `maxBy`|
+|3. 利用 burpsuite 修改请求和响应|[solution](https://shimo.im/docs/POgZfmPQjhY5z8ev/)|`for-loop`, `if-else` |  
+|4. 分析修改 cookie&session|[solution](https://shimo.im/docs/0XL2SXM8V2EziTvR/) |`Boolean` |
+|5. 针对 OWASP TOP 10 查找相关的防范方法|[solution](https://shimo.im/docs/BsNqGrke4YMyipca/ )|`filter`|
 |[476.Number Complement](https://leetcode.com/problems/number-complement/description/)|[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/476.scala)|`Parse Integer`|
 |[821.Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)|[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/821.scala)|`map`, `filter`, `min`, `abs`|
 |[389.Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/389.scala)|`distinct`, `filter`, `! (NOT)`, `contains` (similar to `in` in Python)|
