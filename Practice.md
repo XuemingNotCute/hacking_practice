@@ -5,7 +5,7 @@
 
 
 
-6. [基于靶场进行 XSS 攻击](https://shimo.im/docs/TTAv7ynXRjEJxIYy/ )
+
 7. [XSS 盲打练习](https://shimo.im/docs/X10K66PuTrUL87Vp/)
 8. [CSRF 代码构造](https://shimo.im/docs/2UUKJyYYB1USuP7h/ )
 9. [CSRF 和 SSRF 的区别](https://shimo.im/docs/SBedtckEqlkBua1A/)
@@ -33,7 +33,8 @@
 | Quiz Name | My Solution | Keywords |
 |-----------|-------------|------------------------------|
 |1. 使用 Arachni 发现Web漏洞 |[solution](https://shimo.im/docs/R8Cam8Zr4ecBatss/)|`Arachni`,`Web 漏洞`|
-|2. phpStudy 在Windows 环境下搭建 wordpress|[solution](https://shimo.im/docs/97FLwf3E5oIzK66O/)|`Regular Expression`, `groupBy`, `maxBy`|
-|3. 利用 burpsuite 修改请求和响应|[solution](https://shimo.im/docs/POgZfmPQjhY5z8ev/)|`for-loop`, `if-else` |  
-|4. 分析修改 cookie&session|[solution](https://shimo.im/docs/0XL2SXM8V2EziTvR/) |`Boolean` |
-|5. 针对 OWASP TOP 10 查找相关的防范方法|[solution](https://shimo.im/docs/BsNqGrke4YMyipca/ )|`filter`|
+|2. phpStudy 在Windows 环境下搭建 wordpress|[solution](https://shimo.im/docs/97FLwf3E5oIzK66O/)|`phpStudy`|
+|3. 利用 burpsuite 修改请求和响应|[solution](https://shimo.im/docs/POgZfmPQjhY5z8ev/)|`Burpsuite` |  
+|4. 分析修改 cookie&session|[solution](https://shimo.im/docs/0XL2SXM8V2EziTvR/) |`cookie`,`session` |
+|5. 针对 OWASP TOP 10 查找相关的防范方法|[solution](https://shimo.im/docs/BsNqGrke4YMyipca/ )|`OWASP TOP 10`|
+|6. 基于靶场进行 XSS 攻击|[solution](https://shimo.im/docs/TTAv7ynXRjEJxIYy/ )|`XSS`|
