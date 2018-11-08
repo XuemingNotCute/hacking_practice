@@ -24,11 +24,10 @@
 |17. 利用 dnsbrute 进行子域名扫描|[solution](https://shimo.im/docs/a0zFXvxCdqwv51nH/)|`子域名扫描`|
 |18. 利用 googlehacking 和 shodan 搜集信息|[solution](https://shimo.im/docs/SVAQxqaWCwAQggjz/ )|`googlehacking`,`shodan`|
 |19. 命令执行漏洞和代码执行漏洞练习|[solution](https://shimo.im/docs/cfVZoL4fNRMGSBiC/ )|`命令执行漏洞`,`代码执行漏洞`|
+|20. 在 qibo 系统下寻找逻辑漏洞|[solution](https://shimo.im/docs/cfVZoL4fNRMGSBiC/ )|`逻辑漏洞`|
+|21. 搭建 bageCms 靶场利用 web 漏洞获取 webshell|[solution](https://shimo.im/docs/5L8cUQVUIxoj7F1M/ )|`逻辑漏洞`|
+|22. **服务漏洞练习**|[solution](https://shimo.im/docs/eIOz3L9pFLcSfKvv/)|`服务漏洞`|
+|23. 内网渗透|[solution](https://shimo.im/docs/yWxHsIRFut05I1qP/)|`内网渗透`|
 
 
-19.  []
-20.  [在 qibo 系统下寻找逻辑漏洞](https://shimo.im/docs/JQNYtzSZR7UYSOaP/ )
-21.  [搭建 bageCms 靶场利用 web 漏洞获取 webshell](https://shimo.im/docs/5L8cUQVUIxoj7F1M/ )
-22.  [**服务漏洞练习**](https://shimo.im/docs/eIOz3L9pFLcSfKvv/) 
-23.  [内网渗透-2018/10/9更新](https://shimo.im/docs/yWxHsIRFut05I1qP/)
 
