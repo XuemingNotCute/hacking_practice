@@ -27,7 +27,8 @@
 |20. 在 qibo 系统下寻找逻辑漏洞|[solution](https://shimo.im/docs/cfVZoL4fNRMGSBiC/ )|`逻辑漏洞`|
 |21. 搭建 bageCms 靶场利用 web 漏洞获取 webshell|[solution](https://shimo.im/docs/5L8cUQVUIxoj7F1M/ )|`逻辑漏洞`|
 |22. **服务漏洞练习**|[solution](https://shimo.im/docs/eIOz3L9pFLcSfKvv/)|`服务漏洞`|
-|23. 内网渗透|[solution](https://shimo.im/docs/yWxHsIRFut05I1qP/)|`内网渗透`|
+|23. 内网渗透（未完成）|[solution](https://shimo.im/docs/yWxHsIRFut05I1qP/)|`内网渗透`|
+|24. 利用 dex2jar 与 JD-GUI 完成安卓反编译|已完成，未记录|`reverse`|
 
 
 
